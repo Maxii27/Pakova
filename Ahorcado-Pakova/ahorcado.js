@@ -16,7 +16,7 @@ var palabras = [["Api", "Iterfasz entre usuario y servidor"],
   ["Viaje", "España"], 
  ["empanadilla", "De la panadería"], 
  ["pastel", "De la pastelería"],
-  ["colegio", "Lugar para estudiar"],
+  ["facultad", "Lugar a donde ir a estudiar"],
    ["carrera", "Competición"], 
   ["miel", "Producto elaborado por abejas"]];
 
